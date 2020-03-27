@@ -1,2 +1,1 @@
-# CS4004-Bug-Report-Project
-CS4004 Project where we reported bugs in code according to industrial standards.
+This is a project where we reported and analyzed bugs in code properly by the industrial standards.
